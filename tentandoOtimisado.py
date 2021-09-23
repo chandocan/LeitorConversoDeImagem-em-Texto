@@ -171,7 +171,7 @@ class ConversorTexto:
             elif deseja2 == 's':            
            
                 # carregamento da imagem
-                img = Image.open('meu_nome.png')
+                img = Image.open('paraler.png')
 
                 # colocou a img numa varial é transformal de imagem para string 
                 texto = pytesseract.image_to_string(img)
