@@ -1,0 +1,7 @@
+autopep8==1.5.7
+Pillow==8.3.2
+pycodestyle==2.7.0
+PySimpleGUI==4.47.0
+pytesseract==0.3.8
+pyttsx3==2.90
+toml==0.10.2
